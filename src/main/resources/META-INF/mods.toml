@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="LGPL-3.0-or-later"
+issueTrackerURL="https://github.com/quat1024/simple-trophies-2/issues"
+
+[[mods]]
+modId="simpletrophies2"
+version="${version}"
+displayName="Simple Trophies 2"
+displayURL="https://github.com/quat1024/simple-trophies-2/"
+XXXXXXXXXXXlogoFile="packages-icon.png"
+authors="quaternary"
+description="Tokens of appreciation."
+
+[[dependencies.packages]]
+modId="minecraft"
+mandatory=true
+versionRange="1.20.1"
+ordering="NONE"
+side="BOTH"
